@@ -1,16 +1,4 @@
-# flutter_application_2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# University-Student-Transportation-Scheduling-App
+Smart mobile application that automates university student transportation by analyzing academic schedules and optimizing bus trip planning.
+>>>>>>> d4c278d8b0291630a02cb3616b83e691589a88da
