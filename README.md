@@ -20,6 +20,25 @@ The core idea is to **convert class schedules from images into usable digital da
 - **PHP & XAMPP**: For creating the database and backend server.  
 - **Visual Studio Code**: Code Editor.
 
+## Project structure
+```
+/
+├── lib/
+│   ├── app.py               # Python Backend (Flask)
+│   ├── main.dart            # Flutter Entry Point
+│   ├── admin/               # Admin Interface
+│   ├── student/             # Student Interface
+│   ├── screen/              # Login/Register Screens
+│   └── components/          # Reusable Components
+├── android/                 # Android Configuration
+├── ios/                     # iOS Configuration
+├── web/                     # Web Configuration
+├── windows/                 # Windows Configuration
+├── macos/                   # macOS Configuration
+├── linux/                   # Linux Configuration
+├── requirements.txt         # Python Dependencies
+└── README.md                # This File
+```
 ## Screenshots
 
 <div align="center">
