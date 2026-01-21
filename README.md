@@ -18,7 +18,7 @@ The core idea is to **convert class schedules from images into usable digital da
 - **OpenCV**: For image processing and enhancing schedule readability.  
 - **NumPy**: For data analysis and processing.  
 - **PHP & XAMPP**: For creating the database and backend server.  
-- **Visual Studio Code**: Integrated development environment.
+- **Visual Studio Code**: Code Editor.
 
 ## Screenshots
 
