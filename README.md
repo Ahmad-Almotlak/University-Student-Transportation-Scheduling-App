@@ -19,3 +19,17 @@ The core idea is to **convert class schedules from images into usable digital da
 - **NumPy**: For data analysis and processing.  
 - **PHP & XAMPP**: For creating the database and backend server.  
 - **Visual Studio Code**: Integrated development environment.
+
+## Screenshots
+
+<div align="center">
+  <img src="images/Login.png" width="400" />
+  <br><br>
+  <img src="images/Upload_Image.png" width="400" />
+  <br><br>
+  <img src="images/Actvation_Account.png" width="400" />
+  <br><br>
+  <img src="images/Enter_Table.png" width="400" />
+  <br><br>
+  <img src="images/Time_Table.png" width="400" />
+</div>
